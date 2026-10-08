@@ -19,5 +19,3 @@ TurfMate is a web application designed to make booking and managing football tur
 - Node.js
 - Express.js
 - MongoDB
-
-## 🚀 Getting Started
